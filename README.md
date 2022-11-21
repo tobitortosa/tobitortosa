@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobias Tortosa</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobitortosa" alt="tobitortosa" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-sigma-eight-48.vercel.app/](https://portfolio-sigma-eight-48.vercel.app/)
 
 - 📫 How to reach me **tobiastortosacontact@gmail.com**
