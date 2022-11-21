@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias Tortosa</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sigma-eight-48.vercel.app/](https://portfolio-sigma-eight-48.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sigma-eight-48.vercel.app](https://portfolio-sigma-eight-48.vercel.app/)
 
 - 📫 How to reach me **tobiastortosacontact@gmail.com**
 
